@@ -8,3 +8,11 @@ Leet Code Questions which I have solved during these 100 Days :).
 ### Questions =>
 
 <img src="assets/Day_1_q.png">
+
+## Day 2 =>
+
+<img src="assets/Day_2.png">
+
+### Questions =>
+
+<img src="assets/Day_2_q.png">
